@@ -1,5 +1,5 @@
 ##### Chapter 2
-
+##### Chapter ini berfokus pada memahammi data.
 ## section 2.4.3
 # CHECK YOUR UNDERSTANDING
 
